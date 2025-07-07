@@ -1,0 +1,8 @@
+*.o
+*.mod
+a.out
+*/hello_world
+
+.DS_Store
+
+.vscode/
