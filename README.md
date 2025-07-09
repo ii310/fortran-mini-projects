@@ -1,4 +1,4 @@
-# Fortran Projects — Path from Basics to Wherever It Goes ~
+# Fortran Projects — Fundamentals, Experiments, and Beyond ~
 
 This repository documents my journey of learning Fortran, starting from scratch and building upon further exploration. 
 I chose to document my projects and progress here to not only keep a record for myself but also to share my learning process with others who might be on a similar journey.
