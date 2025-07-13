@@ -1,7 +1,7 @@
 # Fortran Projects — Fundamentals, Experiments, and Beyond ~
 
 This repository documents my journey of learning Fortran, starting from scratch and building upon further exploration. 
-I chose to document my projects and progress here to not only keep a record for myself but also to share my learning process with others who might be on a similar journey.
+I chose to document my projects and progress here to not only keep a record but also to share my learning process with others who might be on a similar journey.
 
 ---
 
@@ -16,7 +16,7 @@ Despite its age, Fortran remains a fast language, widely used in simulations, nu
 
 I'm following the book:  
 **"Fortran for Scientists and Engineers" by Shepten & Chapman**
-As well as researching on the internet to see what people have implemented 
+Also researching on the internet as well. 
 
 I’m progressing chapter by chapter, going from:
 - [ ] Chapter 1 – 3: Basics — variables, PRINT, READ, syntax
