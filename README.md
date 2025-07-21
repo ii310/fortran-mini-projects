@@ -25,19 +25,6 @@ I’m progressing chapter by chapter, going from:
 
 ---
 
-## Progress Log
-I Invite you to explore my detailed progress log in [`progress.md`](./docs/PROGRESS.md). 
-This log not only tracks my key learning milestones but also shares my insights and learnings from each project, including syntax quirks and compiler behaviors.
-
-### 🔖 Learning Level Tags
-
-Each milestone in `progress.md` is labeled with a difficulty level:
-
-- 🟢 Basic — syntax, variables, input/output
-- 🔵 Intermediate — control flow, arrays, functions
-- 🔴 Advanced — modules, file I/O, numerical methods, simulations
-  
----
 
 ## How to Run the Code
 
