@@ -1,4 +1,5 @@
 PROGRAM operations
+IMPLICIT NONE
 
 ! Use variables (all variables are integers)
 INTEGER :: i, j, k
@@ -12,5 +13,6 @@ k = i*j  ! Multiply numbers
 WRITE (*,*) 'Result =', k
 
 ! Finish the equation
-STOP
+
+STOP ! stop running the program
 END PROGRAM operations
