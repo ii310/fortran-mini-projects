@@ -5,9 +5,8 @@
 * Added `01_hello_world` project with Makefile
 * (basic PRINT demo just for test)
 
-<<<<<<< Updated upstream
-=======
+
 **Key Takeaway**
 - Fortran’s program/unit structure is stricter than C/Python: every source needs an explicit `PROGRAM … END PROGRAM` wrapper. 
-- Compiler rejected the file until the wrapper matched by good named reminder to respect case insensitive but sensitive name conventions.
->>>>>>> Stashed changes
+- Compiler rejected the file until the wrapper matched by good named reminder to respect case insensitive but sensitive name conventions
+
