@@ -16,5 +16,5 @@
  * Experimented with NEW_LINE('A'), formatted write(*,'(A,F10.3,/)'), and clearer output control.
 
  **Key Takeaways**
- - Fortran provides clear structure and flow control, 'subroutines' let you break a program into smallerand the 'contains' block links those subroutines directly to the main program
+ - Fortran provides clear structure and flow control, `subroutines` let you break a program into smallerand the `contains` block links those subroutines directly to the main program
  - Flow control: select case is clean for text-based branching; exit safely stops program loops.
