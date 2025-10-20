@@ -7,7 +7,7 @@ program memory_test ! the main program like Python's main()
         call counter 
 
 contains ! a speration for fortran to know where subroutines started "internal procedures start below"
-    subroutine counter ! creating class named counter
+    subroutine counter ! creating an internal subroutine named counter
 
         integer :: saved = 1 ! This is NOT a normal initialisation; it implies the save attribute
         integer :: nonsaved !  This is a normal initialisation wont be saved after the class called again
@@ -19,7 +19,7 @@ contains ! a speration for fortran to know where subroutines started "internal p
         
         ! Note: 
         ! A prints the label (text)
-        ! T60 moves 'saved' output to column 45
+        ! T45 moves 'saved' output to column 45
         ! I0 prints integers without leading spaces
 
         print *, '                                                  '
