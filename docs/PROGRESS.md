@@ -13,7 +13,7 @@
 
  * Created simple calculations to explore subroutines, I/O handling, and variable persistence.
 
- * Experimented with NEW_LINE('A'), formatted write(*,'(A,F10.3,/)'), and clearer output control.
+ * Experimented with NEW_LINE('A'), formats like write(*,'(A,F10.3,/)') write(*,'(A, T45, I0)') for output control.
 
  **Key Takeaways**
  - Fortran provides clear structure and flow control, `subroutines` let you break a program into smallerand the `contains` block links those subroutines directly to the main program
