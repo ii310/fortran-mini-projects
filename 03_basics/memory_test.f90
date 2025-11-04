@@ -10,7 +10,7 @@ contains ! a speration for fortran to know where subroutines started "internal p
     subroutine counter ! creating an internal subroutine named counter
 
         integer :: saved = 1 ! This is NOT a normal initialisation; it implies the save attribute
-        integer :: nonsaved !  This is a normal initialisation wont be saved after the class called again
+        integer :: nonsaved !  This is a normal initialisation wont be saved after the subroutine called again
 
         print *, '--------------------------------------------------'
         write(*,'(A, T45, I0)') 'saved inital:', saved 
