@@ -19,7 +19,7 @@ I'm following the book:  
 Also researching on the internet as well. 
 
 I’m progressing chapter by chapter, going from:
-- [ ] Chapter 1 – 3: Basics — variables, PRINT, READ, syntax
+- [x] Chapter 1 – 3: Basics — variables, PRINT, READ, syntax
 - [ ] Chapter 4 – 5: Control flow, loops, arrays
 - [ ] Later: Functions, modules, file I/O, scientific libraries
 
