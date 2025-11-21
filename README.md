@@ -5,10 +5,12 @@ I chose to document my projects and progress here to not only keep a record but 
 
 ---
 
+
 ## Why Fortran?
 
 Driven by a profound interest in physics and Simulating Motions, I embarked on a journey to explore the languages that power real scientific and aerospace systems. 
 Despite its age, Fortran remains a fast language, widely used in simulations, numerical methods, and legacy code, making it a fascinating and practical choice for my learning journey.
+
 
 ---
 
